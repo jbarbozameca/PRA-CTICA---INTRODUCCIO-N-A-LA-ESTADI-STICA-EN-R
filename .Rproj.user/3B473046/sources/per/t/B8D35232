@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594607339291.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2597409973",
+    "id" : "B8D35232",
+    "lastKnownWriteTime" : 1594615731,
+    "last_content_update" : 1594615731876,
+    "path" : "~/Google Drive/SESIONES DE ESTADÍSTICA EN R/INTRODUCCIÓN AL ANÁLISIS ESTADÍSTICO EN R/Sesion 1 - R analisis.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "102,0",
+        "scrollLine" : "89",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
